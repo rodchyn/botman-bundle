@@ -1,5 +1,5 @@
 {
-    "name": "maalls/botman-bundle",
+    "name": "rodchyn/botman-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "autoload": {
